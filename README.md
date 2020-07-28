@@ -35,3 +35,5 @@ What will this model look like visually?
 
 What does the relationship with `Person` look like?
 
+<a href="https://docs.google.com/spreadsheets/d/1lm6s2rlO7mxJ7DN0yQO5IG9CflRibm044fQIrh57G10/edit#gid=1803880198">Google Sheets Schema</a>
+
