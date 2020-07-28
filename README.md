@@ -14,7 +14,7 @@ We are tasked with creating an app that catalogs people's closets. Create a set 
 - G model Person
 - Migrate
 - Create some people
-- G model article with foreign key
+- G model Article with foreign key
 - Migrate
 - Update relations in models
 - Using foreign key, add article to person
