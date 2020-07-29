@@ -6,7 +6,7 @@ We are tasked with creating an app that catalogs people's closets. Create a set 
 
 1. Petunia has: a jacket and two pairs of shoes
 2. Joaquin has: two pairs of jeans and a hat
-3. Esmerelda has: a tee shirt, a bandana, and a pair of shorts
+3. Esmeralda has: a tee shirt, a bandana, and a pair of shorts
 
 ### Set-up
 - Create app
