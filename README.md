@@ -21,7 +21,7 @@ We are tasked with creating an app that catalogs people's closets. Create a set 
 
 ## Schema
 
-This app will include two tables: Person and Article
+This app will include two tables: Person and Article. People tend to own more than one item of clothing. Rather than making a bunch of emptu columns in `Person` for all of their potential clothes, we are creating a new table called `Article` that will have an association to `Person` via a _foreign key_.
 
 ## Person table
 
